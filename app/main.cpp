@@ -7,6 +7,7 @@ int main(){
     int a = 10, b = 5;
 
     cout << "subtraction : " << subtract(a, b) << endl;
+    cout << "Addition : " << add(a, b) << endl;
     
     return 0;
 }
