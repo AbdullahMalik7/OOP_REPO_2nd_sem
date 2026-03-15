@@ -8,6 +8,8 @@ int main(){
 
     cout << "subtraction : " << subtract(a, b) << endl;
     cout << "Addition : " << add(a, b) << endl;
+    cout<< "Multiplication : " << multiply(a, b) << endl;
+    cout << "Division : " << divide(a, b) << endl;
     
     return 0;
 }
