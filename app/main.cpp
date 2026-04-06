@@ -5,7 +5,7 @@ using namespace math;
 
 int main(){
     int a = 10, b = 5;
-
+    cout<<"Welcome to the calculator "<<endl;
     cout << "subtraction : " << subtract(a, b) << endl;
     cout << "Addition : " << add(a, b) << endl;
     cout<< "Multiplication : " << multiply(a, b) << endl;
